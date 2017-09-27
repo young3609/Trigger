@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Trigger/1.scene/Intro.unity
+    guid: 0da39e3af8aa1174784d0aeb2b70cd2f
+  - enabled: 1
+    path: Assets/Trigger/1.scene/IntroToMain.unity
+    guid: b02a034bc10478b448f1fc40fb2ac25c
+  - enabled: 1
+    path: Assets/Trigger/1.scene/Ranking.unity
+    guid: 47037dfa691374a40b28b28c7d6c4312
+  - enabled: 1
+    path: Assets/Trigger/1.scene/TotalRanking.unity
+    guid: 59bbb232a5674064a8b12d211dfd7fb5
+  - enabled: 1
+    path: Assets/Trigger/1.scene/main_view.unity
+    guid: 47c3a7be6e5c0964081be9f011f5fe9e
+  - enabled: 1
+    path: Assets/Trigger/1.scene/main_help.unity
+    guid: 6eb0f797850cb8b449dac2134e0bb91e
+  - enabled: 1
+    path: Assets/Trigger/1.scene/shootingmap.unity
+    guid: 53878af58ce84194688e54e9bbdfe6e9
+  - enabled: 1
+    path: Assets/Trigger/1.scene/game_view.unity
+    guid: 12618003e4d20e8448ab0013ca0f5868
+  - enabled: 1
+    path: Assets/Trigger/1.scene/BuyItem.unity
+    guid: a855374d83283f849b0953976d689e8b
+  - enabled: 1
+    path: Assets/Trigger/1.scene/BuyItem2.unity
+    guid: 76418f9be9f7d8b45aec303f3f3852b8
+  - enabled: 1
+    path: Assets/Trigger/1.scene/astarmap.unity
+    guid: 685934e4063e88a48a47cedb9300045b
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view1.unity
+    guid: 140e4ecfc617ce642ba7703cd8720895
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view2.unity
+    guid: 4a57f30e5b8b0f044a0c251df6a0e252
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view3.unity
+    guid: d9ce39632c7f1e0449be9b3501fba25a
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view4.unity
+    guid: 893fbeada65f3dd4e8c1da69f815416b
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view5.unity
+    guid: 27d13772aead55e418204d80ae3dee37
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view6.unity
+    guid: 689058b7e5dd2a644b27650ce885df12
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view7.unity
+    guid: 303a502a1fcf856419985bafcf37e9e9
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view8.unity
+    guid: a7c16579a967e3f4b81741535e695c06
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view9.unity
+    guid: c2ae60d22fa9e6c409caf76291ec7fbb
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view10.unity
+    guid: 02642130fa255954382a95e808761ea9
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view11.unity
+    guid: cfe1853fb6ab63348a114313b5257c95
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view12.unity
+    guid: 1d17ff49c9b661549b314d63d1d69868
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view13.unity
+    guid: a47bd0095cbbb7047ae00b73373eba84
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view14.unity
+    guid: d11f0456d8349d9478851834d0d93b58
+  - enabled: 1
+    path: Assets/Trigger/1.scene/boss_view15.unity
+    guid: 42eaa4d4be6b54c4baf040eac5580e5a
